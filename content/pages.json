@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Wedding Florists & Floral Designers Australia | Aisle & Stem",
+    "seoDescription": "Find wedding florists, event florists and floral designers across Sydney, Melbourne, Brisbane and Perth. Tell us about your day once — free to enquire, no obligation.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-02T11:20:42.790Z",
+    "updatedBy": "alper",
+    "createdAt": "2026-09-02T11:20:42.790Z",
+    "createdBy": "alper"
+  }
+]
