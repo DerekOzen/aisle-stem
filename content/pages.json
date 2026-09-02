@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Wedding Florists & Floral Designers Australia | Aisle & Stem",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-02T11:20:42.790Z",
+    "status": "published",
+    "updatedAt": "2026-09-02T11:20:55.439Z",
     "updatedBy": "alper",
     "createdAt": "2026-09-02T11:20:42.790Z",
-    "createdBy": "alper"
+    "createdBy": "alper",
+    "isHome": true
   }
 ]
