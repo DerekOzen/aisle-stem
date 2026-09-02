@@ -15,5 +15,21 @@
     "createdAt": "2026-09-02T11:03:40.945Z",
     "createdBy": "alper",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank You — Your Florist Enquiry Is In | Aisle & Stem",
+    "seoDescription": "Thank you for your enquiry. Aisle & Stem is matching your brief to trusted wedding and event florists in your area right now.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-02T11:04:26.003Z",
+    "updatedBy": "alper",
+    "createdAt": "2026-09-02T11:04:26.003Z",
+    "createdBy": "alper"
   }
 ]
