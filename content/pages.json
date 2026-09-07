@@ -36,7 +36,7 @@
   },
   {
     "id": "pg-3",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Floral Design for Weddings and Events | Aisle & Stem",
@@ -45,9 +45,10 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-09-07T11:34:20.796Z",
+    "updatedAt": "2026-09-07T11:34:53.064Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-07T11:34:12.014Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
