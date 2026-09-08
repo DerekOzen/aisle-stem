@@ -44,7 +44,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=Inter:wght@400;500;600&display=swap"
     ],
-    "updatedAt": "2026-09-07T11:34:09.418Z"
+    "updatedAt": "2026-09-08T01:00:50.418Z",
+    "deleted": true
   },
   {
     "id": "header-3",
