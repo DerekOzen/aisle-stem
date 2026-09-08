@@ -20,7 +20,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&display=swap"
     ],
-    "updatedAt": "2026-09-02T11:20:40.523Z"
+    "updatedAt": "2026-09-08T01:00:36.779Z",
+    "deleted": true
   },
   {
     "id": "header-2",
