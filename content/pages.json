@@ -50,5 +50,21 @@
     "createdAt": "2026-09-07T11:34:12.014Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-4",
+    "path": "/home1",
+    "type": "page",
+    "title": "Home1",
+    "seoTitle": "Floral Design for Weddings and Events | Aisle & Stem",
+    "seoDescription": "Floral design, styling and installation for weddings, events, corporate spaces and funerals across Australia. Tell us the occasion and we design the florals.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-08T00:28:11.210Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-08T00:28:11.210Z",
+    "createdBy": "joshua"
   }
 ]
