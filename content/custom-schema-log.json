@@ -1,0 +1,147 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mu3ei70o-riy9",
+      "at": "2026-09-16T01:07:22.248Z",
+      "count": 34,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-72AFBE49"
+        },
+        {
+          "path": "/wedding-florals",
+          "newRecordId": "SCHEMA-5D23C3FD"
+        },
+        {
+          "path": "/wedding-flowers",
+          "newRecordId": "SCHEMA-E2F6C9D4"
+        },
+        {
+          "path": "/bridal-bouquets",
+          "newRecordId": "SCHEMA-622A1AFA"
+        },
+        {
+          "path": "/event-florals",
+          "newRecordId": "SCHEMA-D8455312"
+        },
+        {
+          "path": "/corporate-florals",
+          "newRecordId": "SCHEMA-E1049019"
+        },
+        {
+          "path": "/funeral-florals",
+          "newRecordId": "SCHEMA-0319D68C"
+        },
+        {
+          "path": "/floral-installations",
+          "newRecordId": "SCHEMA-9BA32AD1"
+        },
+        {
+          "path": "/locations",
+          "newRecordId": "SCHEMA-7D326417"
+        },
+        {
+          "path": "/locations/nsw",
+          "newRecordId": "SCHEMA-F7F8EF1E"
+        },
+        {
+          "path": "/locations/vic",
+          "newRecordId": "SCHEMA-952F57E3"
+        },
+        {
+          "path": "/locations/qld",
+          "newRecordId": "SCHEMA-3CEC9BA7"
+        },
+        {
+          "path": "/locations/wa",
+          "newRecordId": "SCHEMA-C34FF180"
+        },
+        {
+          "path": "/locations/nsw/sydney",
+          "newRecordId": "SCHEMA-6FA672E3"
+        },
+        {
+          "path": "/locations/nsw/newcastle",
+          "newRecordId": "SCHEMA-52EEB737"
+        },
+        {
+          "path": "/locations/vic/melbourne",
+          "newRecordId": "SCHEMA-0C76B9C2"
+        },
+        {
+          "path": "/locations/qld/brisbane",
+          "newRecordId": "SCHEMA-68F1F2C2"
+        },
+        {
+          "path": "/locations/qld/gold-coast",
+          "newRecordId": "SCHEMA-08C91029"
+        },
+        {
+          "path": "/locations/qld/sunshine-coast",
+          "newRecordId": "SCHEMA-CC6A3AD4"
+        },
+        {
+          "path": "/locations/wa/perth",
+          "newRecordId": "SCHEMA-54B32794"
+        },
+        {
+          "path": "/guides",
+          "newRecordId": "SCHEMA-D8A77386"
+        },
+        {
+          "path": "/guides/wedding-flowers-cost",
+          "newRecordId": "SCHEMA-11558133"
+        },
+        {
+          "path": "/guides/choosing-a-wedding-florist",
+          "newRecordId": "SCHEMA-506DE8CC"
+        },
+        {
+          "path": "/guides/seasonal-flowers-australia",
+          "newRecordId": "SCHEMA-70659F92"
+        },
+        {
+          "path": "/guides/wedding-flower-ideas",
+          "newRecordId": "SCHEMA-CF75DB4A"
+        },
+        {
+          "path": "/guides/funeral-flower-etiquette",
+          "newRecordId": "SCHEMA-AB6B2382"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-B3078D38"
+        },
+        {
+          "path": "/contact",
+          "newRecordId": "SCHEMA-D0624E46"
+        },
+        {
+          "path": "/how-it-works",
+          "newRecordId": "SCHEMA-A2CEE2FB"
+        },
+        {
+          "path": "/get-quotes",
+          "newRecordId": "SCHEMA-36524D8D"
+        },
+        {
+          "path": "/thank-you",
+          "newRecordId": "SCHEMA-4F1C068D"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-C4B0315F"
+        },
+        {
+          "path": "/terms",
+          "newRecordId": "SCHEMA-1E2CE418"
+        },
+        {
+          "path": "/disclaimer",
+          "newRecordId": "SCHEMA-752FD307"
+        }
+      ]
+    }
+  ]
+}
