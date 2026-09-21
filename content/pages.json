@@ -391,10 +391,11 @@
     "status": "published",
     "createdAt": "2026-09-08T00:45:55.720Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-18T00:38:43.139Z",
-    "updatedBy": "gabriel",
+    "updatedAt": "2026-09-21T01:31:14.168Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/logo-ea97cc4b.jpg",
-    "featuredImageAlt": "Official logo for Aisle & Stem, offering bespoke wedding and event floral design services across Australia."
+    "featuredImageAlt": "Official logo for Aisle & Stem, offering bespoke wedding and event floral design services across Australia.",
+    "noindex": true
   },
   {
     "id": "pg-24",
