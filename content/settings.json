@@ -1,10 +1,10 @@
 {
   "name": "Aisle & Stem",
   "tagline": "Find Florists, Wedding Florists & Floral Designers Across Australia.",
-  "phone": "",
-  "email": "",
+  "phone": "N/A",
+  "email": "info@aisleandstem.com.au",
   "areas": "Australia",
-  "hoursWeek": "Mon–Fri 9am–5pm",
-  "hoursSat": "Closed",
+  "hoursWeek": "9am–5pm",
+  "hoursSat": "9am–5pm",
   "siteUrl": "https://aisleandstem.com.au/"
 }
