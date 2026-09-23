@@ -1,6 +1,183 @@
 {
   "batches": [
     {
+      "batchId": "csg-muepp2ry-r0iu",
+      "at": "2026-09-23T23:06:07.054Z",
+      "count": 34,
+      "changes": [
+        {
+          "path": "/",
+          "oldRecordId": "SCHEMA-72AFBE49",
+          "newRecordId": "SCHEMA-72AFBE49"
+        },
+        {
+          "path": "/wedding-florals",
+          "oldRecordId": "SCHEMA-5D23C3FD",
+          "newRecordId": "SCHEMA-5D23C3FD"
+        },
+        {
+          "path": "/wedding-flowers",
+          "oldRecordId": "SCHEMA-E2F6C9D4",
+          "newRecordId": "SCHEMA-E2F6C9D4"
+        },
+        {
+          "path": "/bridal-bouquets",
+          "oldRecordId": "SCHEMA-622A1AFA",
+          "newRecordId": "SCHEMA-622A1AFA"
+        },
+        {
+          "path": "/event-florals",
+          "oldRecordId": "SCHEMA-D8455312",
+          "newRecordId": "SCHEMA-D8455312"
+        },
+        {
+          "path": "/corporate-florals",
+          "oldRecordId": "SCHEMA-E1049019",
+          "newRecordId": "SCHEMA-E1049019"
+        },
+        {
+          "path": "/funeral-florals",
+          "oldRecordId": "SCHEMA-0319D68C",
+          "newRecordId": "SCHEMA-0319D68C"
+        },
+        {
+          "path": "/floral-installations",
+          "oldRecordId": "SCHEMA-9BA32AD1",
+          "newRecordId": "SCHEMA-9BA32AD1"
+        },
+        {
+          "path": "/locations",
+          "oldRecordId": "SCHEMA-7D326417",
+          "newRecordId": "SCHEMA-7D326417"
+        },
+        {
+          "path": "/locations/nsw",
+          "oldRecordId": "SCHEMA-F7F8EF1E",
+          "newRecordId": "SCHEMA-F7F8EF1E"
+        },
+        {
+          "path": "/locations/vic",
+          "oldRecordId": "SCHEMA-952F57E3",
+          "newRecordId": "SCHEMA-952F57E3"
+        },
+        {
+          "path": "/locations/qld",
+          "oldRecordId": "SCHEMA-3CEC9BA7",
+          "newRecordId": "SCHEMA-3CEC9BA7"
+        },
+        {
+          "path": "/locations/wa",
+          "oldRecordId": "SCHEMA-C34FF180",
+          "newRecordId": "SCHEMA-C34FF180"
+        },
+        {
+          "path": "/locations/nsw/sydney",
+          "oldRecordId": "SCHEMA-6FA672E3",
+          "newRecordId": "SCHEMA-6FA672E3"
+        },
+        {
+          "path": "/locations/nsw/newcastle",
+          "oldRecordId": "SCHEMA-52EEB737",
+          "newRecordId": "SCHEMA-52EEB737"
+        },
+        {
+          "path": "/locations/vic/melbourne",
+          "oldRecordId": "SCHEMA-0C76B9C2",
+          "newRecordId": "SCHEMA-0C76B9C2"
+        },
+        {
+          "path": "/locations/qld/brisbane",
+          "oldRecordId": "SCHEMA-68F1F2C2",
+          "newRecordId": "SCHEMA-68F1F2C2"
+        },
+        {
+          "path": "/locations/qld/gold-coast",
+          "oldRecordId": "SCHEMA-08C91029",
+          "newRecordId": "SCHEMA-08C91029"
+        },
+        {
+          "path": "/locations/qld/sunshine-coast",
+          "oldRecordId": "SCHEMA-CC6A3AD4",
+          "newRecordId": "SCHEMA-CC6A3AD4"
+        },
+        {
+          "path": "/locations/wa/perth",
+          "oldRecordId": "SCHEMA-54B32794",
+          "newRecordId": "SCHEMA-54B32794"
+        },
+        {
+          "path": "/guides",
+          "oldRecordId": "SCHEMA-D8A77386",
+          "newRecordId": "SCHEMA-D8A77386"
+        },
+        {
+          "path": "/guides/wedding-flowers-cost",
+          "oldRecordId": "SCHEMA-11558133",
+          "newRecordId": "SCHEMA-11558133"
+        },
+        {
+          "path": "/guides/choosing-a-wedding-florist",
+          "oldRecordId": "SCHEMA-506DE8CC",
+          "newRecordId": "SCHEMA-506DE8CC"
+        },
+        {
+          "path": "/guides/seasonal-flowers-australia",
+          "oldRecordId": "SCHEMA-70659F92",
+          "newRecordId": "SCHEMA-70659F92"
+        },
+        {
+          "path": "/guides/wedding-flower-ideas",
+          "oldRecordId": "SCHEMA-CF75DB4A",
+          "newRecordId": "SCHEMA-CF75DB4A"
+        },
+        {
+          "path": "/guides/funeral-flower-etiquette",
+          "oldRecordId": "SCHEMA-AB6B2382",
+          "newRecordId": "SCHEMA-AB6B2382"
+        },
+        {
+          "path": "/about",
+          "oldRecordId": "SCHEMA-B3078D38",
+          "newRecordId": "SCHEMA-B3078D38"
+        },
+        {
+          "path": "/contact",
+          "oldRecordId": "SCHEMA-D0624E46",
+          "newRecordId": "SCHEMA-D0624E46"
+        },
+        {
+          "path": "/how-it-works",
+          "oldRecordId": "SCHEMA-A2CEE2FB",
+          "newRecordId": "SCHEMA-A2CEE2FB"
+        },
+        {
+          "path": "/get-quotes",
+          "oldRecordId": "SCHEMA-36524D8D",
+          "newRecordId": "SCHEMA-36524D8D"
+        },
+        {
+          "path": "/thank-you",
+          "oldRecordId": "SCHEMA-4F1C068D",
+          "newRecordId": "SCHEMA-4F1C068D"
+        },
+        {
+          "path": "/privacy-policy",
+          "oldRecordId": "SCHEMA-C4B0315F",
+          "newRecordId": "SCHEMA-C4B0315F"
+        },
+        {
+          "path": "/terms",
+          "oldRecordId": "SCHEMA-1E2CE418",
+          "newRecordId": "SCHEMA-1E2CE418"
+        },
+        {
+          "path": "/disclaimer",
+          "oldRecordId": "SCHEMA-752FD307",
+          "newRecordId": "SCHEMA-752FD307"
+        }
+      ]
+    },
+    {
       "batchId": "csg-mu3ei70o-riy9",
       "at": "2026-09-16T01:07:22.248Z",
       "count": 34,
