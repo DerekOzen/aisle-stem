@@ -459,13 +459,6 @@
         "placeholder": "Style, colours, theme, guest numbers…"
       },
       {
-        "id": "f7nh701",
-        "required": false,
-        "kind": "heading",
-        "label": "Location",
-        "text": "Location"
-      },
-      {
         "id": "fha9lnu",
         "required": true,
         "kind": "suburb",
@@ -627,7 +620,7 @@
     ],
     "createdAt": "2026-10-06T11:24:00.648Z",
     "createdBy": "derek",
-    "updatedAt": "2026-10-06T11:26:05.689Z",
+    "updatedAt": "2026-10-06T11:26:30.716Z",
     "updatedBy": "derek"
   }
 ]
