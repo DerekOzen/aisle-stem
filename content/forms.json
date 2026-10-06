@@ -505,7 +505,12 @@
           "This Week",
           "Flexible",
           "Specific Date"
-        ]
+        ],
+        "w": {
+          "d": 4,
+          "t": 12,
+          "m": 12
+        }
       },
       {
         "id": "fhz5g9s",
@@ -620,7 +625,7 @@
     ],
     "createdAt": "2026-10-06T11:24:00.648Z",
     "createdBy": "derek",
-    "updatedAt": "2026-10-06T11:26:30.716Z",
+    "updatedAt": "2026-10-06T11:28:36.708Z",
     "updatedBy": "derek"
   }
 ]
