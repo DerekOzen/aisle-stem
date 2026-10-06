@@ -457,13 +457,7 @@
         "label": "Event Category",
         "name": "event-category",
         "options": [
-          "Balloon Stylists",
-          "Florists",
-          "Cake Makers & Dessert Artists",
-          "Event Hire & Styling",
-          "Kids Entertainment & Play",
-          "Event Planners",
-          "Video & Photography"
+          "Florists"
         ]
       },
       {
@@ -643,7 +637,7 @@
     ],
     "createdAt": "2026-10-06T11:24:00.648Z",
     "createdBy": "derek",
-    "updatedAt": "2026-10-06T11:24:00.648Z",
+    "updatedAt": "2026-10-06T11:25:44.406Z",
     "updatedBy": "derek"
   }
 ]
