@@ -430,5 +430,220 @@
     "createdBy": "derek",
     "updatedAt": "2026-10-06T04:28:38.444Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "formmuwlc8i0",
+    "name": "My Event Match enquiry form",
+    "fields": [
+      {
+        "id": "f5ibnce",
+        "required": false,
+        "kind": "heading",
+        "label": "Your event",
+        "text": "Your event"
+      },
+      {
+        "id": "f2jca98",
+        "required": true,
+        "kind": "text",
+        "label": "Event Title",
+        "name": "event-title",
+        "placeholder": "e.g. Mia's 1st Birthday"
+      },
+      {
+        "id": "fnlyumq",
+        "required": true,
+        "kind": "checkboxes",
+        "label": "Event Category",
+        "name": "event-category",
+        "options": [
+          "Balloon Stylists",
+          "Florists",
+          "Cake Makers & Dessert Artists",
+          "Event Hire & Styling",
+          "Kids Entertainment & Play",
+          "Event Planners",
+          "Video & Photography"
+        ]
+      },
+      {
+        "id": "ftj08ug",
+        "required": false,
+        "kind": "paragraph",
+        "label": "Tell Us About Your Event",
+        "name": "about-event",
+        "placeholder": "Style, colours, theme, guest numbers…"
+      },
+      {
+        "id": "f7nh701",
+        "required": false,
+        "kind": "heading",
+        "label": "Location",
+        "text": "Location"
+      },
+      {
+        "id": "fha9lnu",
+        "required": true,
+        "kind": "suburb",
+        "label": "Location",
+        "name": "location"
+      },
+      {
+        "id": "fnqhhf4",
+        "required": false,
+        "kind": "text",
+        "label": "Venue or Event Address",
+        "name": "venue"
+      },
+      {
+        "id": "fa86ij2",
+        "required": false,
+        "kind": "heading",
+        "label": "Schedule",
+        "text": "Schedule"
+      },
+      {
+        "id": "fldznhg",
+        "required": false,
+        "kind": "radios",
+        "label": "Event Size",
+        "name": "event-size",
+        "options": [
+          "Small",
+          "Medium",
+          "Large",
+          "Commercial",
+          "Residential"
+        ]
+      },
+      {
+        "id": "f2bvq1t",
+        "required": false,
+        "kind": "radios",
+        "label": "When Do You Need It",
+        "name": "when",
+        "options": [
+          "ASAP",
+          "Within 24 Hours",
+          "This Week",
+          "Flexible",
+          "Specific Date"
+        ]
+      },
+      {
+        "id": "fhz5g9s",
+        "required": false,
+        "kind": "date",
+        "label": "Event Date",
+        "name": "event-date"
+      },
+      {
+        "id": "f8nlw1d",
+        "required": false,
+        "kind": "heading",
+        "label": "Estimated budget",
+        "text": "Estimated budget"
+      },
+      {
+        "id": "fp7cote",
+        "required": true,
+        "kind": "radios",
+        "label": "Estimated Budget",
+        "name": "budget",
+        "options": [
+          "$0 – $1,000",
+          "$1,001 – $2,000",
+          "$2,001+",
+          "I'm Not Sure"
+        ]
+      },
+      {
+        "id": "fpd2qdu",
+        "required": false,
+        "kind": "heading",
+        "label": "Inspiration photos",
+        "text": "Inspiration photos"
+      },
+      {
+        "id": "fk4rhpc",
+        "required": false,
+        "kind": "file",
+        "label": "Upload Photos",
+        "name": "photos"
+      },
+      {
+        "id": "fee1ulb",
+        "required": false,
+        "kind": "heading",
+        "label": "Your contact details",
+        "text": "Your contact details"
+      },
+      {
+        "id": "fsqlksd",
+        "required": true,
+        "kind": "text",
+        "label": "First Name",
+        "name": "first-name"
+      },
+      {
+        "id": "fujl9ne",
+        "required": true,
+        "kind": "text",
+        "label": "Last Name",
+        "name": "last-name"
+      },
+      {
+        "id": "f6ygml2",
+        "required": false,
+        "kind": "phone",
+        "label": "Phone Number",
+        "name": "phone"
+      },
+      {
+        "id": "f3yxalw",
+        "required": false,
+        "kind": "radios",
+        "label": "Preferred Contact Method",
+        "name": "contact-method",
+        "options": [
+          "Email",
+          "Phone",
+          "SMS"
+        ]
+      },
+      {
+        "id": "fazhhrh",
+        "required": true,
+        "kind": "email",
+        "label": "Email Address",
+        "name": "email"
+      },
+      {
+        "id": "fmnhamf",
+        "required": false,
+        "kind": "text",
+        "label": "Best Time to Contact",
+        "name": "best-time",
+        "placeholder": "e.g. Weekday afternoons"
+      },
+      {
+        "id": "fq0teyv",
+        "required": false,
+        "kind": "paragraph",
+        "label": "Additional Information",
+        "name": "message"
+      },
+      {
+        "id": "f610ve7",
+        "required": false,
+        "kind": "consent",
+        "label": "Agreement",
+        "text": "By submitting your event request, you agree that: your request will be shared with suitable event professionals; matching professionals may contact you about your event; your details will only be used to help organise quotes and services for this request."
+      }
+    ],
+    "createdAt": "2026-10-06T11:24:00.648Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-10-06T11:24:00.648Z",
+    "updatedBy": "derek"
   }
 ]
