@@ -451,16 +451,6 @@
         "placeholder": "e.g. Mia's 1st Birthday"
       },
       {
-        "id": "fnlyumq",
-        "required": true,
-        "kind": "checkboxes",
-        "label": "Event Category",
-        "name": "event-category",
-        "options": [
-          "Florists"
-        ]
-      },
-      {
         "id": "ftj08ug",
         "required": false,
         "kind": "paragraph",
@@ -637,7 +627,7 @@
     ],
     "createdAt": "2026-10-06T11:24:00.648Z",
     "createdBy": "derek",
-    "updatedAt": "2026-10-06T11:25:44.406Z",
+    "updatedAt": "2026-10-06T11:26:05.689Z",
     "updatedBy": "derek"
   }
 ]
