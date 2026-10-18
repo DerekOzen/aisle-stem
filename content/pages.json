@@ -657,13 +657,15 @@
     "seoTitle": "What Venues Require Before a Floral Installation Goes Up",
     "seoDescription": "The venue requirements behind every large floral installation: insurance and safety paperwork, rigging limits, access windows, and the questions to ask.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": null,
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-10-18T23:33:50.130Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-18T23:33:50.130Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-18T23:42:16.304Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/what-venues-require-before-a-floral-inst-31b32f1d.jpg",
+    "featuredImageAlt": "Large free-standing floral installation being built in an event space before guests arrive"
   },
   {
     "id": "pg-39",
