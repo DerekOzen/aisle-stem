@@ -752,10 +752,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-10-19T00:25:43.400Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-19T00:25:43.400Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-19T00:26:49.394Z",
+    "updatedBy": "gabriel",
+    "isHome": false
   }
 ]
