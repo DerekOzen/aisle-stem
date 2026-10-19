@@ -741,5 +741,21 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/how-an-office-flower-rotation-actually-w-54ce70e5.jpg",
     "featuredImageAlt": "Fresh floral arrangement on an office reception desk, part of a weekly workplace flower rotation"
+  },
+  {
+    "id": "pg-43",
+    "path": "/blogs",
+    "type": "page",
+    "title": "Floral Design Blog, Advice and Inspiration | Aisle & Stem",
+    "seoTitle": "Floral Design Blog, Advice and Inspiration | Aisle & Stem",
+    "seoDescription": "Floral design advice from Aisle and Stem on funeral flower wording, venue rules for floral installations and how an office flower rotation works.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-19T00:25:43.400Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T00:25:43.400Z",
+    "updatedBy": "gabriel"
   }
 ]
