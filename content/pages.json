@@ -687,5 +687,53 @@
     "featuredImage": "/uploads/how-an-office-flower-rotation-actually-w-54ce70e5.jpg",
     "featuredImageAlt": "Fresh floral arrangement on an office reception desk, part of a weekly workplace flower rotation",
     "isHome": false
+  },
+  {
+    "id": "pg-40",
+    "path": "/blog/family-flowers-only",
+    "type": "post",
+    "title": "What 'Family Flowers Only' Means on a Funeral Notice",
+    "seoTitle": "What 'Family Flowers Only' Means on a Funeral Notice",
+    "seoDescription": "What 'family flowers only' means on a funeral notice, why families ask for it, what to send instead, and how to word the request if you are writing one.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-19T00:03:20.204Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T00:03:20.204Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-41",
+    "path": "/blog/venue-rules-floral-installations",
+    "type": "post",
+    "title": "What Venues Require Before a Floral Installation Goes Up",
+    "seoTitle": "What Venues Require Before a Floral Installation Goes Up",
+    "seoDescription": "The venue requirements behind every large floral installation: insurance and safety paperwork, rigging limits, access windows, and the questions to ask.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-19T00:03:20.204Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T00:03:20.204Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-42",
+    "path": "/blog/office-flower-rotation",
+    "type": "post",
+    "title": "How an Office Flower Rotation Actually Works | Aisle & Stem",
+    "seoTitle": "How an Office Flower Rotation Actually Works | Aisle & Stem",
+    "seoDescription": "Weekly or fortnightly? What a workplace flower rotation involves, how often blooms need changing in an air-conditioned office, and what drives the cost.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-19T00:03:20.204Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T00:03:20.204Z",
+    "updatedBy": "gabriel"
   }
 ]
