@@ -660,13 +660,14 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-10-18T23:33:50.130Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-18T23:59:58.414Z",
+    "updatedAt": "2026-10-19T00:02:06.758Z",
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/what-venues-require-before-a-floral-inst-31b32f1d.jpg",
-    "featuredImageAlt": "Large free-standing floral installation being built in an event space before guests arrive"
+    "featuredImageAlt": "Large free-standing floral installation being built in an event space before guests arrive",
+    "isHome": false
   },
   {
     "id": "pg-39",
