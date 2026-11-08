@@ -776,5 +776,53 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/logo-ea97cc4b.jpg",
     "featuredImageAlt": "Official logo for Aisle & Stem, offering bespoke wedding and event floral design services across Australia."
+  },
+  {
+    "id": "pg-45",
+    "path": "/blog/how-to-preserve-wedding-flowers",
+    "type": "post",
+    "title": "How to Preserve Wedding Flowers After the Day",
+    "seoTitle": "How to Preserve Wedding Flowers After the Day",
+    "seoDescription": "How to preserve wedding flowers after the day, from air drying and pressing to silica gel and framing, plus which blooms suit each method.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-08T23:23:23.135Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-08T23:23:23.135Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-46",
+    "path": "/blog/how-long-do-flowers-last",
+    "type": "post",
+    "title": "How Long Do Flowers Last, Bloom by Bloom",
+    "seoTitle": "How Long Do Flowers Last, Bloom by Bloom",
+    "seoDescription": "How long do flowers last? A bloom by bloom guide to vase life, from peonies and tulips to orchids and carnations, and how to plan swap-outs.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-08T23:23:23.135Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-08T23:23:23.135Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-47",
+    "path": "/blog/how-to-keep-flowers-fresh",
+    "type": "post",
+    "title": "How to Keep Flowers Fresh in an Australian Summer",
+    "seoTitle": "How to Keep Flowers Fresh in an Australian Summer",
+    "seoDescription": "How to keep flowers fresh through an Australian summer event: water, conditioning, transport in the heat, shade, placement and bump-in timing.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-08T23:23:23.135Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-08T23:23:23.135Z",
+    "updatedBy": "gabriel"
   }
 ]
